@@ -1,6 +1,6 @@
 # GraphTraversal.
 
-Description
+Description:
 This Python program generates a random N×N grid with obstacles and allows the user to specify source and goal positions. It uses Depth-First Search (DFS) to find a path from the source to the goal while avoiding obstacles. The program then outputs the path found (if any), along with the order in which nodes were visited during the DFS traversal.
 
 Key Features:
